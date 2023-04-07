@@ -1,8 +1,8 @@
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
-  <a herf="https://leetcode.com/adibabechaev/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"> </a>
-  <a herf="https://www.reddit.com/user/goaki12"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"></a>
+  <a href="https://leetcode.com/adibabechaev/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"> </a>
+  <a href="https://www.reddit.com/user/goaki12"><img src="https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white"></a>
 
   <img src="https://komarev.com/ghpvc/?username=goacmola&style=flat-square&color=blue" alt=""/>
 
@@ -13,6 +13,8 @@
 
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+---
 
 <br>
 
@@ -36,15 +38,11 @@ I am a low level developer
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=goacmola&show_icons=true&theme=radical" alt="goacmola's GitHub stats" />
-
-  <br>
+  ![goacmola's GitHub stats](https://github-readme-stats.vercel.app/api?username=goacmola&show_icons=true&theme=radical)
   
-  <img src="https://streak-stats.demolab.com/?user=goacmola&theme=radical" alt="goacmola's streak">
-
-  <br>
-
-  <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=goacmola&theme=radical&layout=compact)" alt="Top Langs" />
+  ![goacmola's streak](https://streak-stats.demolab.com/?user=goacmola&theme=radical)
+  
+  ![Top Lang](https://github-readme-stats.vercel.app/api/top-langs/?username=goacmola&theme=radical&layout=compact)
 
   <br>
 
