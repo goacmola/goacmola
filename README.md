@@ -1,4 +1,4 @@
-<center>
+<div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
   <a herf="https://leetcode.com/adibabechaev/"><img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06"> </a>
@@ -12,7 +12,7 @@
   </h1>
 
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-</center>
+</div>
 
 <br>
 
@@ -34,7 +34,7 @@ I am a low level developer
 
 <br>
 
-<center>
+<div align="center">
 
   <img src="https://github-readme-stats.vercel.app/api?username=goacmola&show_icons=true&theme=radical" alt="goacmola's GitHub stats" />
 
@@ -75,4 +75,4 @@ I am a low level developer
 
   ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-</center>
+</div>
